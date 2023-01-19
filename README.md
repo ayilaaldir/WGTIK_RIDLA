@@ -1,4 +1,4 @@
-# WGTIK_2021
+# WGTIK_2022
 Base code for personal website exercise for WGTIK 2022
 
 # RIDLA ALIYA GANI
